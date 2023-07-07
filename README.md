@@ -14,3 +14,4 @@ https://apkcombo.com/id/termux/com.termux/old-versions/0.119.1/
 5. git clone https://github.com/mza-xxdv/spotitit.git
 6. cd spotitit
 7. php index.php
+
